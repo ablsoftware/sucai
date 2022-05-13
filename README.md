@@ -1,2 +1,1 @@
-# sucai
-exam
+# exam
